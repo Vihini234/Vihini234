@@ -1,24 +1,96 @@
+
 <h1 align="center">Hi 👋, I'm Vihini Ranasingha</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">Aspiring QA Engineer | Software Testing | Test Automation</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vihini-wathsiluni-a57b1323a" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vihini wathsiluni" height="30" width="40" />
-</a>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Software+Quality+Assurance;Automation+Testing+Enthusiast;Java+%7C+Selenium+%7C+TestNG;API+Testing+%7C+Playwright" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vihini234&show_icons=true&locale=en&layout=compact" alt="vihini234" /></p>
+## 👩‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vihini234&show_icons=true&locale=en" alt="vihini234" /></p>
+- 🎓 Industrial Information Technology Undergraduate
+- 🔍 Passionate about Software Quality Assurance
+- 🧪 Interested in Manual Testing & Automation Testing
+- ☕ Working with Java, Selenium, TestNG and Maven
+- 🚀 Exploring API Testing with Postman and REST Assured
+- 🎭 Learning Playwright for End-to-End Testing
+- 🗄️ Practicing SQL and Database Testing
+- 🌱 Continuously improving my QA engineering skills
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vihini234&" alt="vihini234" /></p>
+---
 
-<!---
-Vihini234/Vihini234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Tech Stack & Tools
+
+### Automation Testing
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+</p>
+
+### API Testing
+<p>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_Assured-25A162?style=for-the-badge"/>
+</p>
+
+### Database & Development Tools
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured QA Projects
+
+| Project | Technologies |
+|---|---|
+| SauceDemo E-commerce Testing | Selenium, Java |
+| QA Automation Framework | Java, Selenium, TestNG, Maven |
+| API Testing | Postman, REST Assured |
+| E2E Automation Framework | Playwright |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vihini234&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vihini234&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Vihini234&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/vihini-wathsiluni-a57b1323a/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Vihini234" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://vihini-qa-portfolio.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/QA_Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<h3 align="center">💡 "Quality is never an accident; it is always the result of intelligent effort."</h3>
+
+<p align="center">
+⭐ Building better software, one test at a time!
+</p>
