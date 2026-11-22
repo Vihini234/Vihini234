@@ -10,14 +10,14 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Industrial Information Technology Undergraduate
-- 🔍 Passionate about Software Quality Assurance
-- 🧪 Interested in Manual Testing & Automation Testing
-- ☕ Working with Java, Selenium, TestNG and Maven
-- 🚀 Exploring API Testing with Postman and REST Assured
-- 🎭 Learning Playwright for End-to-End Testing
-- 🗄️ Practicing SQL and Database Testing
-- 🌱 Continuously improving my QA engineering skills
+-  Industrial Information Technology Undergraduate
+-  Passionate about Software Quality Assurance
+-  Interested in Manual Testing & Automation Testing
+-  Working with Java, Selenium, TestNG and Maven
+-  Exploring API Testing with Postman and REST Assured
+-  Learning Playwright for End-to-End Testing
+-  Practicing SQL and Database Testing
+-  Continuously improving my QA engineering skills
 
 ---
 
